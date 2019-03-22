@@ -8,7 +8,7 @@ public class Test1 {
 		}
 
 	private static void execute(Sample obj) {
-	obj.m1();	
+	//obj.m1();	
 		}
 }
 
